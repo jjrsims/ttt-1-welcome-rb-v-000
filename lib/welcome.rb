@@ -1,2 +1,2 @@
 lib/welcome.rb
-print "Welcome to Tic Tac Toe!"
+put "Welcome to Tic Tac Toe!"
