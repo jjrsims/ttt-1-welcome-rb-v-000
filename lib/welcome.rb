@@ -1,2 +1,2 @@
-lib/welcome_spec.rb
+lib/welcome.rb
 puts "Welcome to Tic Tac Toe!"
